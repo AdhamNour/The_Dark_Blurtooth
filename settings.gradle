@@ -1,0 +1,2 @@
+rootProject.name='The Dark Blurtooth'
+include ':app'
